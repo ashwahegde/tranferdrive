@@ -9,6 +9,6 @@ Then you reached right place.
 
 1. Create new google account.
 2. Get familiar with google colab.
-3. Open above [jupiter notebook](https://github.com/ashwahegde/tranferdrive/drive_content_copy.ipynb), and start new runtime.
+3. Open above [jupiter notebook](https://colab.research.google.com/github/ashwahegde/tranferdrive/blob/master/drive_content_copy.ipynb), and start new runtime.
 4. Follow the instructions from in the notebook to copy from one drive to another.
 5. Done!!! You can delete the content permanently and free up the drive.
